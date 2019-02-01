@@ -12,5 +12,5 @@
 ## **experiment 2 Canny Edge Detector**
 + Results of my detector
 
-![Lena_origin](Digital-Image-Processing/experiment2/Lena.jpg,"Lena(origin)")
+![Lena_origin](Digital-Image-Processing/experiment2/Lena.jpg)
 
