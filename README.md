@@ -9,4 +9,7 @@
    + Adaptive median filter
 + Evaluation of results
 
-## **experiment 2 
+## **experiment 2 Canny Edge Detector**
++ Results of my detector
+![Lena_origin](https://github.com/zhangyx96/Digital-Image-Processing/blob/master/experiment2/Lena.jpg,"Lena(origin)")
+
