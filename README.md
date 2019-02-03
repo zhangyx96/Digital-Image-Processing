@@ -11,10 +11,15 @@
 
 ## **experiment 2 Canny Edge Detector**
 + Results of my detector
+  
+  (1) Lena
 
-<img src = "Digital-Image-Processing/experiment2/Lena.jpg">
+  ![Lena_origin](experiment2/Lena.jpg "Lena_origin")&emsp;&emsp;
+  ![Lena_after](experiment2/Result1.bmp "Lena_after")
 
-![Lena_origin](Digital-Image-Processing/experiment2/Lena.jpg)
+  (2) house
 
-![Lena_after](Digital-Image-Processing/experiment2/Result1.bmp)
+  ![house_origin](experiment2/house.bmp "house_origin")&emsp;&emsp;
+  ![house_after](experiment2/Result2.bmp "house_after")
 
+## **experiment 3 Texture Descriptors**
