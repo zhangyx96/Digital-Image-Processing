@@ -19,7 +19,20 @@
 
   (2) house
 
-  ![house_origin](experiment2/house.bmp "house_origin")&emsp;&emsp;
-  ![house_after](experiment2/Result2.bmp "house_after")
+  <img src = "experiment2/house.bmp" width = "200" alt = "house_origin">&emsp;&emsp;
+  <img src = "experiment2/Result2.bmp" width = "200" alt = "house_origin">
 
 ## **experiment 3 Texture Descriptors**
++ Co-occurrence matrix (共生矩阵)
++ 不变矩 $\psi_1$~$\psi_7$
+
+## **Project 1 BMP Loading and Interpolation**
++ Task1:
+1) Read and display “Up or Down.bmp” file
+2) Write “U” or “D” into this Bmp as your answer
+3) Save 2) as an answer.bmp
+
++ Task2:
+&emsp;For tsukuba-left.bmp(gray, 8bits/pixels, 384*288 pixels)
+1) Bicubic interpolation ( into 1152*864 pixels
+2) Rotate +35 degree
