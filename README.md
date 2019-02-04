@@ -32,9 +32,11 @@
 2) Write “U” or “D” into this Bmp as your answer
 3) Save 2) as an answer.bmp
 
+<img src = "Project-1/answer.bmp" width = "400" alt = "house_origin">
+
 + Task2:
 &emsp;For tsukuba-left.bmp(gray, 8bits/pixels, 384*288 pixels)
-1) Bicubic interpolation ( into 1152*864 pixels
+1) Bicubic interpolation into 1152*864 pixels
 2) Rotate +35 degree
 
-## **Project 1 BMP Loading and Interpolation**
+## **Project 2 BMP Loading and Interpolation**
